@@ -1,2 +1,6 @@
 # laboratorio_git
-Chapalele
+Las medusas (Medusozoa), también llamadas aguamalas, malaguas, aguavivas, aguacuajito, aguacuajada, o lágrimas de mar, son animales marinos pertenecientes al filo Cnidaria (más conocidos como celentéreos); son pelágicos, de cuerpo gelatinoso, con forma de campana de la que cuelga un manubrio tubular, con la boca en el extremo inferior, a veces prolongado por largos tentáculos cargados con células urticantes llamados cnidocitos. Aparecieron hace unos 500 millones de años en el Cámbrico.1​
+
+Para desplazarse por el agua se impulsan por contracciones rítmicas de todo su cuerpo; toman agua, que se introduce en su cavidad gastrovascular, y la expulsan usándola como "propulsor".
+
+El concepto de medusa es tanto taxonómico como morfológico. Muchos cnidarios tienen una alternancia de generaciones, con pólipos sésiles que se reproducen asexualmente y medusas pelágicas que llevan a cabo la reproducción sexual. Solo los antozoos carecen de forma medusa; las otras tres clases de cnidarios (hidrozoos, escifozoos y cubozoos) poseen forma pólipo y forma medusa; dichas medusas presentan características distintivas en las tres clases, de modo que se puede hablar de hidromedusas, escifomedusas y cubomedusas respectivamente.
